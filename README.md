@@ -3,6 +3,8 @@
 
 - 🔭 Estoy trabajando como freelace **redactando contenido web**
 
+- 🌱 Estoy aprendiendo sobre **SysAdmin, Desarrollo Front End y Soporte IT**
+
 - 👨‍💻 Mis proyectos están en [azaharafm.com](azaharafm.com)
 
 - 📫 Puedes contactarme en **azahara.asir@gmail.com**
